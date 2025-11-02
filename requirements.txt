@@ -2,3 +2,4 @@ streamlit
 bcrypt
 cryptography
 pandas
+plotly
